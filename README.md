@@ -1,4 +1,4 @@
-# Menu Node Js
+# Menu PS
 In this project we ask the user to choose dishes he or she likes to order from the Blue10 Bistro. If the order is complete an overview and the total amount will be printed.
 ## Install
 In order to run Menu.js, it is necessary that powershell is installed.
