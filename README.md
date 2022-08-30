@@ -1,7 +1,7 @@
 # Menu PS
 In this project we ask the user to choose dishes he or she likes to order from the Blue10 Bistro. If the order is complete an overview and the total amount will be printed.
 ## Install
-In order to run Menu.js, it is necessary that powershell is installed.
+In order to run Menu.ps1, it is necessary that powershell is installed.
 ## Usage
 If the project folder, including the files menu.json and Menu.ps1, is set as your working directory
 ```
